@@ -16,5 +16,5 @@ Qt Framework was used to create the GUI.
 7. NOTE: you may notice that for planets after Jupiter (Saturn, Uranus, ...), you may click
    the Calculate button, but the output will still be zero. This is just because these planets
    have very large orbital periods, so your age on the planets will usually be less than 1 yo (which are.
-   rounded to 0) However, if you make the year very small, you will get numbers which are not zero, so you can
+   rounded to 0) However, if you make the year a very small number, you will get numbers which are not zero, so you can
    indeed see that these buttons actually work. They are not broken!

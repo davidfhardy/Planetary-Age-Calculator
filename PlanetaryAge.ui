@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>PlanetaryAgeClass</class>
+ <widget class="QWidget" name="PlanetaryAgeClass" >
+  <property name="objectName" >
+   <string notr="true">PlanetaryAgeClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>PlanetaryAge</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="PlanetaryAge.qrc"/>
+ </resources>
+ <connections/>
+</UI>
